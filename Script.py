@@ -1,16 +1,27 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/The_Ro_ck_Bot>𝚃𝙷𝙴 𝚁𝙾𝙲𝙺</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝚃𝙷𝙴𝙽 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝙴𝙴 𝚃𝙷𝙴 𝙼𝙰𝙶𝙸𝙲"""
+    START_TXT = """𝙃𝙖𝙞 {},
+
+𝙸 𝙰𝚖 𝙰 𝙿𝚛𝚎 𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚎𝚍 𝚁𝚘𝚋𝚘𝚝 𝙽𝚊𝚖𝚎𝚍,  <a href=https://t.me/The_Ro_ck_Bot>𝚃𝙷𝙴 𝚁𝙾𝙲𝙺</a>!
+
+<b> 𝑱𝒖𝒂𝒕 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒏𝒅 𝑴𝒂𝒌𝒆 𝑴𝒆 𝑨𝒅𝒎𝒊𝒏,𝑰'𝑳𝑳 𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝑴𝑶𝑽𝑰𝑬𝑺 𝑻𝒉𝒆𝒓𝒆 🤓
+
+<a href='http://t.me/The_Ro_ck_Bot?startgroup=true?startgroup=true'>𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒏𝒅 𝑴𝒂𝒌𝒆 𝑴𝒆 𝑨𝒏 𝑨𝒅𝒎𝒊𝒏 </a>,🟡𝙏𝙝𝙚𝙣 𝙎𝙚𝙚 𝙈𝙮 𝙋𝙤𝙬𝙚𝙧𝙨✨️
+➖➖➖➖➖➖➖➖➖➖➖➖➖
+©MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href='tg://user?id=1175978941'><b>RJ</b></a> .</b>"""
+"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/RJMALLU>𝚁𝙹</a>
-✯ 𝙿𝙰𝙸𝙳 𝙿𝚁𝙾𝙼𝙾𝚃𝙸𝙾𝙽: <a href=tg://user?id=5133623467>🦄ᵏᵉʳᵃˡᵃ᭄𝐴𝑇𝐻𝐼𝐹 𝐸𝐹𝑋 𝑃𝐺 ⋆ᚸ⃝⃘⃟⃠̰̃[ᵒⁿˡⁱⁿᵉ🇦🇺] [UK] UNITED KERALA</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+    ABOUT_TXT = """╔══════════════════❍
+║╭━━━━━━━━━━━━━━━➣ 
+║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  𝚃𝙷𝙴 𝚁𝙾𝙲𝙺
+║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1175978941'><b>RJ</b></a>
+║➠ 𝙿𝙰𝙸𝙳 𝙿𝚁𝙾𝙼𝙾𝚃𝙸𝙾𝙽 - <a href='tg://user?id=5133623467'>Everyone in this journey </a>
+║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3 </a>
+║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ </a>
+║➠ 𝙲𝙻𝙾𝙽𝙴𝙳 𝙵𝚁𝙾𝙼 - EvaMaria
+║➠ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 -  <a href='https://dashboard.heroku.com/apps'>𝑯𝒆𝒓𝒐𝒌𝒖</a>
+║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - <a href='https://t.me/The_Ro_ck_Bot'>𝒗1.7.2[𝑷𝑹𝑶]</a>
+║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍"""
     SOURCE_TXT = """<b>NOTE:</b>
  NOTE:👋എന്താടാ മോനെ നോക്കുന്നേ നിനക്ക് ആവശ്യമായിട്ടുള്ളത് ഇവിടെ ഇല്ല 😌👮‍♂ ᴅᴇᴠʟᴏᴘᴇʀ : <a href=https://t.me/RJMALLU>𝚁𝙹</a>"""
     WARN_TXT = """Here is the help for the <b>Warns</b> module:
