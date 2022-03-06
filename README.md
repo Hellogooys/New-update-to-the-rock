@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="assets/MW.png" alt="MW LOGO">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>THE ROCK</b>
 </h1>
 
 
